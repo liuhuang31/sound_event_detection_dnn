@@ -1,16 +1,12 @@
-2016.06.24
-This is sourcecode of DCASE Challenge 2016 Task 3 (Audio event detection in real life). Details of this challenge can be seen here. http://www.cs.tut.fi/sgn/arg/dcase2016/task-sound-event-detection-in-real-life-audio
-
-THIS CODE IS MIT LISCENCED. 
-CONTACT: QIUQIANG KONG, q.kong@surrey.ac.uk
-CVSSP, UNIVERSITY OF SURREY
-
-======================================
+The original code is here https://github.com/qiuqiangkong/DCASE2016_Task3
+Because the original code has some problem, which i changed a little.
+This is sourcecode of DCASE Challenge 2016 Task 3 (Audio event detection in real life).
+Details of this challenge can be seen here. http://www.cs.tut.fi/sgn/arg/dcase2016/task-sound-event-detection-in-real-life-audio
 
 Pre-requiste:
 * pip install sed_eval		Evaluation toolbox
 * pip install librosa		Feature extraction toolbox
-* pip install hat 		Deep learning toolbox, https://qiuqiangkong.github.io/Hat
+* pip install hat 		Deep learning toolbox, https://qiuqiangkong.github.io/Hat 
 
 Usage:
 ------ Preparation ------
